@@ -1,0 +1,10 @@
+#Folder
+dataset/
+fpn/
+images/
+submit/
+pretrained/
+
+## Files
+#Checkpoint files
+*.h5
